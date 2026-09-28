@@ -1,0 +1,6 @@
+{
+  "name": "Kerala Voyage CRM — Travel Agency Platform",
+  "description": "Comprehensive Kerala Tours & Travel Agency Management Platform with Lead Pipeline, Bookings, Day-wise Itineraries, Hotel & Package Inventory, WhatsApp Communications, and AI Co-pilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
